@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Form Filler",
+  "version": "1.0",
+  "description": "Auto-fill forms from mapping text and file uploads.",
+  "permissions": ["scripting", "activeTab", "storage"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}

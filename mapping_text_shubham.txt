@@ -1,0 +1,34 @@
+Course fee* ()
+
+Name* (Shubham kumar Saw)
+Father's Name* (Anil kumar Saw)
+Nationality* (Indian)
+Date of birth* (14/04/2000)
+Date of birth* (file upload)
+
+House No/Apartment* (399)
+Street/Village/Colony* (New Colony Nimdih)
+District/City* (Chaibasa, West Singhbhum)
+PIN code* (833201)
+State* Select from dropdown(JHARKHAND)
+Mobile No.* (776841961)
+Email Id* (Shubhamkumarsaw0818@gmail.com)
+
+Education qualification* Select from dropdown(Graduation)
+Education qualification* (file upload)
+
+Vegetarian / Non-Vegetarian* Select from dropdown(Vegetarian)
+Blood Group* (O+)
+Height* (5.5)
+Weight* (68)
+Waist* (34)
+Shoe Size* (9)
+
+Photo of Applicant* (file upload)
+Signature of Applicant* (file upload)
+
+Emergency Contact Name* (Anil kumar Saw)
+Emergency Contact Phone* (7320970764)
+
+Parent/Guardian's Signature* (file upload)
+
